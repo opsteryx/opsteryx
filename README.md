@@ -2,7 +2,7 @@
 <h3 align="center">I am an Undergrad student in the IT domain.</h3>
 
 <h4>About Me</h4>
-<p>🔸 I am currently pursuing B.Tech in IT 💽.<br/>🔸 I take pleasure in buildng up my knowledge about various things 📚.<br/>🔸 I am able to play multiple instruments 🎵.</p>
+<p>🔸 I am currently pursuing B.Tech in IT 💽.<br/>🔸 I take pleasure in buildng up my knowledge about various things 📚.<br/>🔸 I play multiple instruments 🎵.</p>
 
 <img align="center" alt="gif with cute coding bird" width="500" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExczQ2ZjJtOXM3NGs3MWtteGQzNXR2d3VlNHYzNW5iM3lqaTJ1d3o5byZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/QDjpIL6oNCVZ4qzGs7/giphy.gif">
 
