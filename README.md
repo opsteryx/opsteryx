@@ -6,7 +6,7 @@
 
 <img align="center" alt="gif with cute coding bird" width="500" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExczQ2ZjJtOXM3NGs3MWtteGQzNXR2d3VlNHYzNW5iM3lqaTJ1d3o5byZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/QDjpIL6oNCVZ4qzGs7/giphy.gif">
 
-<p align="left" > <img src="https://komarev.com/ghpvc/?username=opsteryx&label=Profile%20views&color=0e75b6&style=flat" alt="opsteryx" /> </p>
+<!--<p align="left" > <img src="https://komarev.com/ghpvc/?username=opsteryx&label=Profile%20views&color=0e75b6&style=flat" alt="opsteryx" /> </p>-->
 
 <!--<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=opsteryx" alt="opsteryx" /></a> </p>-->
 
