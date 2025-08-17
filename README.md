@@ -1,8 +1,8 @@
 <h1 align="center">Hey 👋🏽, I'm Vedansh Bhaskar</h1>
-<h3 align="center">I am an Undergrad student in the IT domain.</h3>
+<h3 align="center">I am an Undergrad in the IT domain.</h3>
 
 <h4>About Me</h4>
-<p>🔸 I am currently pursuing B.Tech in IT 💽.<br/>🔸 I take pleasure in buildng up my knowledge about various things 📚.<br/>🔸 I play multiple instruments 🎵.</p>
+<p>🔸 I have just finished my B.Tech in IT 💽.<br/>🔸 I take pleasure in buildng up my knowledge about various things 📚.<br/>🔸 I'm learning and tinkering with my currently growing homelab.<br/>🔸 I am a data hoarder and I have my own plex and jellyfin server to hoard all my media. Hehe</p>
 
 <img align="center" alt="gif with cute coding bird" width="500" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExczQ2ZjJtOXM3NGs3MWtteGQzNXR2d3VlNHYzNW5iM3lqaTJ1d3o5byZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/QDjpIL6oNCVZ4qzGs7/giphy.gif">
 
@@ -10,7 +10,7 @@
 
 <!--<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=opsteryx" alt="opsteryx" /></a> </p>-->
 
-- 🌱 I’m currently learning **web development**
+- 🌱 I’m currently learning **graphic designing**
 
 - 📫 How to reach me **bhaskarvedansh@gmail.com**
 
